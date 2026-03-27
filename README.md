@@ -1,4 +1,5 @@
-# Olá, eu sou o Julio Romano! 👋
+# Olá, eu sou o Julio Cesar Fernandes Romano! 👋
+# Tenho 21 anos
 
 Busco transformar dados em decisões e ideias em aplicações funcionais. Atualmente, estou em busca de oportunidades de **Estágio em TI**, com foco em Desenvolvimento (Full Stack) ou Análise de Dados/Banco de Dados.
 
