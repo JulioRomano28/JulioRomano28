@@ -34,8 +34,8 @@ Busco transformar dados em decisões e ideias em aplicações funcionais. Atualm
 </p>
 
 ## 📫 Como me encontrar
-* **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-* **Email:** [seu-email@exemplo.com]
+* **LinkedIn:** https://www.linkedin.com/in/julio-cesar-fernandes-romano-6a9255373/
+* **Email:** [julio.cfr28@gmail.com]
 
 ---
 "O sucesso não é apenas sobre o que você realiza, mas sobre o que você inspira os outros a fazer."
